@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravoian)](https://github.com/ravoian/github-readme-stats)
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=ravoian&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -30,6 +28,7 @@
 
 <!--
 **ravoian/ravoian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravoian)](https://github.com/ravoian/github-readme-stats)
 
 Here are some ideas to get you started:
 
