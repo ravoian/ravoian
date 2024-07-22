@@ -1,5 +1,5 @@
-## Hello 👋
-<a href="www.linkedin.com/in/ravoian">linkedin.com/in/ravoian</a>
+## Hello 👋 
+[linkedin.com/in/ravoian](https://www.linkedin.com/in/ravoian)
 
  
 <!--
