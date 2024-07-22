@@ -21,14 +21,18 @@
   <img src="https://komarev.com/ghpvc/?username=ravoian&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 
 <!--
+
 **ravoian/ravoian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravoian)](https://github.com/ravoian/github-readme-stats)
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 Here are some ideas to get you started:
 
@@ -40,4 +44,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
