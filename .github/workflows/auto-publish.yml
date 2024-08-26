@@ -7,8 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
-        uses: koj-co/readme-repos-list@master
+        uses: AnandChowdhary/readme-repos-list@v1.3.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          query: "Octocat in:readme"
+          query: "Octocat in:readme user:ravoian"
           max: 10
+
+            
