@@ -1,7 +1,7 @@
 name: README Repos List
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "* * * * *"
 jobs:
   list:
     runs-on: ubuntu-latest
