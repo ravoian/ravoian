@@ -1,7 +1,7 @@
 ## Hello 👋 
 [linkedin.com/in/ravoian](https://www.linkedin.com/in/ravoian)
 
-<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
+<!-- start: YOUR_STARTER --> <!-- end: YOUR_STARTER -->
  
 <!--
 
