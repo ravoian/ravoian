@@ -1,46 +1,31 @@
-## Hello 👋 
-[linkedin.com/in/ravoian](https://www.linkedin.com/in/ravoian)
+## Hello 👋 [linkedin.com/in/ravoian](https://www.linkedin.com/in/ravoian)
 
-<!-- start: YOUR_STARTER --> <!-- end: YOUR_STARTER -->
- 
-<!--
 
-**ravoian/ravoian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravoian)](https://github.com/ravoian/github-readme-stats)
+Cloud & Infrastructure:
 
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravoian&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+- [azure-bicep-container](https://github.com/ravoian/azure-bicep-container)
 
----
+- [azure-arm-template-container](https://github.com/ravoian/azure-arm-template-container)
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ravoian&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+- [azure-container-terraform](https://github.com/ravoian/azure-container-terraform)
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ravoian&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravoian&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+- [aws-eks-terraform](https://github.com/ravoian/aws-eks-terraform)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravoian&style=for-the-badge&color=orange" alt=""/>  
-</div>
+- [ansible-containerized-setup](https://github.com/ravoian/ansible-containerized-setup)
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+- [argocd-kubernetes-deploy](https://github.com/ravoian/argocd-kubernetes-deploy)
 
-Here are some ideas to get you started:
+- [ue-containerized-builder](https://github.com/ravoian/ue-containerized-builder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
+
+Language Specific:
+
+- [go-slack-bot](https://github.com/ravoian/go-slack-bot)
+
+- [cs-winform-json-editor](https://github.com/ravoian/cs-winform-json-editor)
+
+- [rust-slack-bot](https://github.com/ravoian/rust-slack-bot)
+
+
