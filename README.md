@@ -16,8 +16,6 @@ Cloud & Infrastructure Testing:
 
 - [argocd-kubernetes-deploy](https://github.com/ravoian/argocd-kubernetes-deploy)
 
-- [terraform-docker-container](https://github.com/ravoian/terraform-docker-container)
-
 - [grafana-monitoring-dashboards](https://github.com/ravoian/grafana-monitoring-dashboards)
 
 Build Tools & Containerization Testing:
@@ -33,6 +31,8 @@ Build Tools & Containerization Testing:
 - [docker-silent-installer](https://github.com/ravoian/docker-silent-installer)
 
 - [python-server-container](https://github.com/ravoian/python-server-container)
+
+- [terraform-docker-container](https://github.com/ravoian/terraform-docker-container)
 
 Language Specific Exploration:
 
