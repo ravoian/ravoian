@@ -20,9 +20,15 @@ Cloud & Infrastructure Testing:
 
 Build Tools & Containerization Testing:
 
-- [ue-containerized-builder](https://github.com/ravoian/ue-containerized-builder)
+- [cmake-build-tool](https://github.com/ravoian/cmake-build-tool)
 
-- [cpp-compile-tools](https://github.com/ravoian/cpp-compile-tools)
+- [ninja-build-tool](https://github.com/ravoian/ninja-build-tool)
+
+- [bazel-build-tool](https://github.com/ravoian/bazel-build-tool)
+
+- [msbuild-build-tool](https://github.com/ravoian/msbuild-build-tool)
+
+- [ue-containerized-builder](https://github.com/ravoian/ue-containerized-builder)
 
 - [windows-server-sandbox](https://github.com/ravoian/windows-server-sandbox)
 
@@ -51,5 +57,3 @@ Language Specific Exploration:
 - [cplus-console-slack-bot](https://github.com/ravoian/cplus-console-slack-bot)
 
 - [cs-console-slack-bot](https://github.com/ravoian/cs-console-slack-bot)
-
-
