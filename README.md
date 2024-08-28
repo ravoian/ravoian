@@ -28,6 +28,8 @@ Build Tools & Containerization Testing:
 
 - [msbuild-build-tool](https://github.com/ravoian/msbuild-build-tool)
 
+- [clang-llvm-compiler](https://github.com/ravoian/clang-llvm-compiler)
+
 - [ue-containerized-builder](https://github.com/ravoian/ue-containerized-builder)
 
 - [windows-server-sandbox](https://github.com/ravoian/windows-server-sandbox)
