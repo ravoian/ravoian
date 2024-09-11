@@ -12,7 +12,9 @@ Cloud & Infrastructure Testing:
 
 - [aws-eks-terraform](https://github.com/ravoian/aws-eks-terraform)
 
-- [oci-vm-linux-terraform](https://github.com/ravoian/oci-vm-terraform)
+- [oci-vm-linux-terraform](https://github.com/ravoian/oci-vm-linux-terraform)
+
+- [oci-vm-win-terraform](https://github.com/ravoian/oci-vm-win-terraform)
 
 - [ansible-containerized-setup](https://github.com/ravoian/ansible-containerized-setup)
 
