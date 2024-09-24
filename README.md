@@ -20,8 +20,6 @@ Cloud & Infrastructure Testing:
 
 - [argocd-kubernetes-deploy](https://github.com/ravoian/argocd-kubernetes-deploy)
 
-- [grafana-monitoring-dashboards](https://github.com/ravoian/grafana-monitoring-dashboards)
-
 Build Tools & Containerization Testing:
 
 - [cmake-build-tool](https://github.com/ravoian/cmake-build-tool)
@@ -46,6 +44,14 @@ Build Tools & Containerization Testing:
 
 - [terraform-docker-container](https://github.com/ravoian/terraform-docker-container)
 
+Data & Database Testing:
+
+- [python-database-connectors](https://github.com/ravoian/python-database-connectors)
+
+- [redis-python-setget](https://github.com/ravoian/redis-python-setget)
+
+- [grafana-monitoring-dashboards](https://github.com/ravoian/grafana-monitoring-dashboards)
+
 Language Specific Exploration:
 
 - [go-slack-bot](https://github.com/ravoian/go-slack-bot)
@@ -57,8 +63,6 @@ Language Specific Exploration:
 - [kotlin-android-wallpaper](https://github.com/ravoian/kotlin-android-wallpaper)
 
 - [ruby-slack-bot](https://github.com/ravoian/ruby-slack-bot)
-
-- [python-database-connectors](https://github.com/ravoian/python-database-connectors)
 
 - [cplus-console-slack-bot](https://github.com/ravoian/cplus-console-slack-bot)
 
