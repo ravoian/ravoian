@@ -50,6 +50,8 @@ Data & Database Testing:
 
 - [redis-python-setget](https://github.com/ravoian/redis-python-setget)
 
+- [grpc-python-forecast](https://github.com/ravoian/grpc-python-forecast)
+
 - [grafana-monitoring-dashboards](https://github.com/ravoian/grafana-monitoring-dashboards)
 
 Language Specific Exploration:
