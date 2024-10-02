@@ -56,6 +56,8 @@ Data & Database Testing:
 
 - [grafana-monitoring-dashboards](https://github.com/ravoian/grafana-monitoring-dashboards)
 
+- [plotly-ue-sizemap](https://github.com/ravoian/plotly-ue-sizemap)
+
 Language Specific Exploration:
 
 - [go-slack-bot](https://github.com/ravoian/go-slack-bot)
