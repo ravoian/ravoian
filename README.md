@@ -73,3 +73,5 @@ Language Specific Exploration:
 - [cplus-console-slack-bot](https://github.com/ravoian/cplus-console-slack-bot)
 
 - [cs-console-slack-bot](https://github.com/ravoian/cs-console-slack-bot)
+
+- [elixir-slack-bot](https://github.com/ravoian/elixir-slack-bot)
